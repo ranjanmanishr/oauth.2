@@ -8,7 +8,7 @@ This is an Oauth 2 implementation using Node.js and Mongodb. Implemeation would 
 * Start the App
   * **npm start**
 
-# Curl to test it
+# Curl to test it test
 * Register user
   * **curl -i -X POST -H "Content-Type:application/json" http://localhost:3000/user/registeruser -d '{"username":"test","password":"test123"}'**
 * Get token
